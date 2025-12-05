@@ -1,1 +1,227 @@
-# MJay-Editz
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MJay Editz - Video Showcase</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #111; color: #eee; margin: 0; }
+    header { background: #222; padding: 20px; text-align: center; }
+    header h1 { margin: 0; color: #6ea8ff; }
+    nav a { color: #eee; margin: 0 10px; text-decoration: none; }
+    nav a:hover { color: #6ea8ff; }
+    .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; padding: 20px; }
+    .card { background: #1a1a1a; border-radius: 8px; overflow: hidden; box-shadow: 0 0 10px rgba(0,0,0,0.5); }
+    .card video { width: 100%; display: block; }
+    .card-body { padding: 10px; }
+    .card-body h3 { margin: 0; color: #6ea8ff; }
+    .actions { display: flex; gap: 10px; margin-top: 8px; }
+    .btn { padding: 6px 10px; border: 1px solid #444; border-radius: 6px; cursor: pointer; background: transparent; color: #eee; }
+    .btn:hover { border-color: #6ea8ff; color: #6ea8ff; }
+    .stats { font-size: 13px; color: #aaa; margin-top: 6px; }
+    .comments { margin-top: 10px; }
+    .comment { background: #222; padding: 6px; border-radius: 6px; margin-bottom: 6px; font-size: 13px; }
+    .comment-form { margin-top: 8px; display: flex; flex-direction: column; gap: 6px; }
+    .comment-form input, .comment-form textarea { padding: 6px; border-radius: 6px; border: 1px solid #444; background: #111; color: #eee; }
+    .comment-form button { align-self: flex-start; }
+    footer { background: #222; text-align: center; padding: 15px; margin-top: 20px; font-size: 14px; color: #aaa; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MJay Editz</h1>
+    <nav>
+      <a href="#gallery">Videos</a>
+      <a href="https://api.whatsapp.com">Contact</a>
+    </nav>
+  </header>
+
+  <section id="gallery" class="gallery">
+    <!-- Video Card -->
+    <div class="card" data-id="video1">
+      <video controls>
+        <source src="C:\Users\USER\Pictures\edit1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <h3>houston rockets edit</h3>
+<p>by mjay</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+        <div class="comments"></div>
+        <form class="comment-form">
+          <input type="text" name="name" placeholder="Your name" required>
+          <textarea name="text" placeholder="Leave a comment..." required></textarea>
+          <button class="btn" type="submit">Post</button>
+        </form>
+      </div>
+    </div>
+
+    <!-- Another Video Card -->
+    <div class="card" data-id="video2">
+      <video controls>
+        <source src="C:\Users\USER\Pictures\tonyparkeredit.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <h3>Tony parker Edit</h3>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+        <div class="comments"></div>
+        <form class="comment-form">
+          <input type="text" name="name" placeholder="Your name" required>
+          <textarea name="text" placeholder="Leave a comment..." required></textarea>
+          <button class="btn" type="submit">Post</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+<!-- Another Video Card -->
+    <div class="card" data-id="video2">
+      <video controls>
+        <source src="C:\Users\USER\downloads\edit2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <h4>nba players</h4>
+<p>by posher</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+        <div class="comments"></div>
+        <form class="comment-form">
+          <input type="text" name="name" placeholder="Your name" required>
+          <textarea name="text" placeholder="Leave a comment..." required></textarea>
+          <button class="btn" type="submit">Post</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+<!-- Another Video Card -->
+    <div class="card" data-id="video2">
+      <video controls>
+        <source src="C:\Users\USER\downloads\dunk1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <h5>nba2k20 dunks</h5>
+<p>by k4mbingggmeh</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+        <div class="comments"></div>
+        <form class="comment-form">
+          <input type="text" name="name" placeholder="Your name" required>
+          <textarea name="text" placeholder="Leave a comment..." required></textarea>
+          <button class="btn" type="submit">Post</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+
+<!-- Another Video Card -->
+    <div class="card" data-id="video2">
+      <video controls>
+        <source src="C:\Users\USER\downloads\dunk2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <h6>nba2k20 dunks</h6>
+<p>by unclej064</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+        <div class="comments"></div>
+        <form class="comment-form">
+          <input type="text" name="name" placeholder="Your name" required>
+          <textarea name="text" placeholder="Leave a comment..." required></textarea>
+          <button class="btn" type="submit">Post</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+
+  <footer>
+    © 2025 Rocketstar3 — All rights reserved.
+  </footer>
+
+  <script>
+    // Local storage for likes, views, comments
+    const data = JSON.parse(localStorage.getItem("mjayData") || "{}");
+
+    document.querySelectorAll(".card").forEach(card => {
+      const id = card.dataset.id;
+      if (!data[id]) data[id] = { likes: 0, views: 0, comments: [] };
+
+      const likesEl = card.querySelector(".likes");
+      const viewsEl = card.querySelector(".views");
+      const commentsEl = card.querySelector(".comments");
+
+      // Update UI
+      function update() {
+        likesEl.textContent = data[id].likes + " Likes";
+        viewsEl.textContent = data[id].views + " Views";
+        commentsEl.innerHTML = "";
+        data[id].comments.forEach(c => {
+          const div = document.createElement("div");
+          div.className = "comment";
+          div.innerHTML = `<strong>${c.name}</strong>: ${c.text}`;
+          commentsEl.appendChild(div);
+        });
+        localStorage.setItem("mjayData", JSON.stringify(data));
+      }
+      update();
+
+      // Like button
+      card.querySelector(".like-btn").addEventListener("click", () => {
+        data[id].likes++;
+        update();
+      });
+
+      // View counter
+      card.querySelector("video").addEventListener("play", () => {
+        data[id].views++;
+        update();
+      });
+
+      // Comment form
+      card.querySelector(".comment-form").addEventListener("submit", e => {
+        e.preventDefault();
+        const name = e.target.name.value.trim();
+        const text = e.target.text.value.trim();
+        if (name && text) {
+          data[id].comments.push({ name, text });
+          e.target.reset();
+          update();
+        }
+      });
+    });
+  </script>
+</body>
+</html>
