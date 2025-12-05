@@ -32,7 +32,7 @@
     <h1>MJay Editz</h1>
     <nav>
       <a href="#gallery">Videos</a>
-      <a href="https://api.whatsapp.com">Contact</a>
+      <a href="https://wa.me/08030471077/">Contact</a>
     </nav>
   </header>
 
@@ -40,7 +40,7 @@
     <!-- Video Card -->
     <div class="card" data-id="video1">
       <video controls>
-        <source src="C:\Users\USER\Pictures\edit1.mp4" type="video/mp4">
+        <source src="MJay-Editz/videos/edit1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
@@ -65,7 +65,7 @@
     <!-- Another Video Card -->
     <div class="card" data-id="video2">
       <video controls>
-        <source src="C:\Users\USER\Pictures\tonyparkeredit.mp4" type="video/mp4">
+        <source src="MJay-Editz/videos/tonyparkeredit.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
@@ -90,7 +90,7 @@
 <!-- Another Video Card -->
     <div class="card" data-id="video2">
       <video controls>
-        <source src="C:\Users\USER\downloads\edit2.mp4" type="video/mp4">
+        <source src="MJay-Editz/videos/edit2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
@@ -116,7 +116,7 @@
 <!-- Another Video Card -->
     <div class="card" data-id="video2">
       <video controls>
-        <source src="C:\Users\USER\downloads\dunk1.mp4" type="video/mp4">
+        <source src="MJay-Editz/videos/dunk1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
@@ -143,7 +143,7 @@
 <!-- Another Video Card -->
     <div class="card" data-id="video2">
       <video controls>
-        <source src="C:\Users\USER\downloads\dunk2.mp4" type="video/mp4">
+        <source src="MJay-Editz/videos/dunk2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
@@ -225,3 +225,7 @@
   </script>
 </body>
 </html>
+
+
+
+
