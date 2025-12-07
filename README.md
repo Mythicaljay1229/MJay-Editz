@@ -57,6 +57,42 @@
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
         <div class="stats">
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
@@ -81,6 +117,42 @@
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
         <div class="stats">
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
@@ -111,6 +183,42 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
         <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
@@ -133,6 +241,42 @@
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
         <div class="stats">
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
@@ -160,6 +304,42 @@
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
         <div class="stats">
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
@@ -186,6 +366,42 @@
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
         <div class="stats">
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
@@ -213,6 +429,42 @@
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
         <div class="stats">
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
@@ -286,6 +538,7 @@
   </script>
 </body>
 </html>
+
 
 
 
