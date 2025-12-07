@@ -174,6 +174,31 @@
     </div>
   </section>
 
+<!-- Another Video Card -->
+    <div class="card" data-id="video2">
+      <video controls>
+        <source src="videos/edit3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <p>kuroku no basket</p>
+<p>by Imani</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+        <div class="comments"></div>
+        <form class="comment-form">
+          <input type="text" name="name" placeholder="Your name" required>
+          <textarea name="text" placeholder="Leave a comment..." required></textarea>
+          <button class="btn" type="submit">Post</button>
+        </form>
+      </div>
+    </div>
+  </section>
 
   <footer>
     © 2025 Rocketstar3 — All rights reserved.
@@ -233,6 +258,8 @@
   </script>
 </body>
 </html>
+
+
 
 
 
