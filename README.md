@@ -59,17 +59,17 @@
         </div>
         <div class="share-buttons">
   <!-- Twitter -->
-  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
     Twitter
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
     Facebook
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
 </div>
@@ -119,17 +119,17 @@
         </div>
         <div class="share-buttons">
   <!-- Twitter -->
-  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
     Twitter
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
     Facebook
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
 </div>
@@ -185,17 +185,17 @@
         </div>
         <div class="share-buttons">
   <!-- Twitter -->
-  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
     Twitter
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
     Facebook
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
 </div>
@@ -243,17 +243,17 @@
         </div>
         <div class="share-buttons">
   <!-- Twitter -->
-  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
     Twitter
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
     Facebook
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
 </div>
@@ -306,17 +306,17 @@
         </div>
         <div class="share-buttons">
   <!-- Twitter -->
-  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
     Twitter
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
     Facebook
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
 </div>
@@ -368,17 +368,17 @@
         </div>
         <div class="share-buttons">
   <!-- Twitter -->
-  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
     Twitter
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
     Facebook
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
 </div>
@@ -431,17 +431,17 @@
         </div>
         <div class="share-buttons">
   <!-- Twitter -->
-  <a href="https://twitter.com/intent/tweet?url=https://yourwebsite.com&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
     Twitter
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourwebsite.com" target="_blank" class="share-btn facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
     Facebook
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://yourwebsite.com" target="_blank" class="share-btn whatsapp">
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
 </div>
@@ -538,6 +538,7 @@
   </script>
 </body>
 </html>
+
 
 
 
