@@ -542,6 +542,127 @@
     </div>
   </section>
 
+   <!-- Video Card -->
+    <div class="card" data-id="video1">
+      <video controls>
+        <source src="videos/2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <h3>Minecraft</h3>
+<p>by posher</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+        <div class="comments"></div>
+        <form class="comment-form">
+          <input type="text" name="name" placeholder="Your name" required>
+          <textarea name="text" placeholder="Leave a comment..." required></textarea>
+          <button class="btn" type="submit">Post</button>
+        </form>
+      </div>
+    </div>
+
+   <!-- Video Card -->
+    <div class="card" data-id="video1">
+      <video controls>
+        <source src="videos/3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <h3>LeBron James</h3>
+<p>by mjay</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+        <div class="comments"></div>
+        <form class="comment-form">
+          <input type="text" name="name" placeholder="Your name" required>
+          <textarea name="text" placeholder="Leave a comment..." required></textarea>
+          <button class="btn" type="submit">Post</button>
+        </form>
+      </div>
+    </div>
 
   <footer>
     © 2025 Rocketstar3 — All rights reserved.
