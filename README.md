@@ -97,26 +97,21 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
+<div id="disqus_thread"></div>
 <script>
-  <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
+  var disqus_config = function () {
+    this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
+    this.page.identifier = "MJay-Editz"; // optional but recommended
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
 </script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
+<noscript>Please enable JavaScript to view comments powered by Disqus.</noscript>
+     
 
         <div class="comments"></div>
         <form class="comment-form">
@@ -1100,6 +1095,7 @@ var disqus_config = function () {
   <script id="dsq-count-scr" src="//https-mythicaljay1229-github-io-mjay-editz.disqus.com/count.js" async></script>
 </body>
 </html>
+
 
 
 
