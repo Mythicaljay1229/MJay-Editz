@@ -97,29 +97,21 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-<div id="disqus_thread"></div>
-<script>
-  var disqus_config = function () {
-    this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-    this.page.identifier = "MJay-Editz"; // optional but recommended
-  };
-  (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://https-mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
+<script src="https://giscus.app/client.js"
+        data-repo="Mythicaljay1229/MJay-Editz"
+        data-repo-id="R_kgDOQja4Og"
+        data-category="General"
+        data-category-id="DIC_kwDOQja4Os4CzyIx"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
 </script>
-<noscript>Please enable JavaScript to view comments powered by Disqus.</noscript>
-     
-
-        <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
-      </div>
     </div>
 
     <!-- Another Video Card -->
@@ -173,34 +165,21 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
-  <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
-      </div>
+<script src="https://giscus.app/client.js"
+        data-repo="Mythicaljay1229/MJay-Editz"
+        data-repo-id="R_kgDOQja4Og"
+        data-category="General"
+        data-category-id="DIC_kwDOQja4Os4CzyIx"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>      
     </div>
   </section>
 
@@ -257,33 +236,21 @@ var disqus_config = function () {
 .share-btn.whatsapp { background: #25D366; }
 </style>
         <div class="comments"></div>
-           <div id="disqus_thread"></div>
-<script>
-  <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
+<script src="https://giscus.app/client.js"
+        data-repo="Mythicaljay1229/MJay-Editz"
+        data-repo-id="R_kgDOQja4Og"
+        data-category="General"
+        data-category-id="DIC_kwDOQja4Os4CzyIx"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
 </script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
-      </div>
     </div>
   </section>
 
@@ -339,34 +306,21 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
- <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
+      <script src="https://giscus.app/client.js"
+        data-repo="Mythicaljay1229/MJay-Editz"
+        data-repo-id="R_kgDOQja4Og"
+        data-category="General"
+        data-category-id="DIC_kwDOQja4Os4CzyIx"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
 </script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
-      </div>
     </div>
   </section>
 
@@ -423,34 +377,12 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
-  <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
+           <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
           <textarea name="text" placeholder="Leave a comment..." required></textarea>
           <button class="btn" type="submit">Post</button>
         </form>
-      </div>
     </div>
   </section>
 
@@ -506,34 +438,12 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
-  <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
+           <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
           <textarea name="text" placeholder="Leave a comment..." required></textarea>
           <button class="btn" type="submit">Post</button>
         </form>
-      </div>
     </div>
   </section>
 
@@ -590,33 +500,12 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-        <div class="comments"></div>
+             <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
           <textarea name="text" placeholder="Leave a comment..." required></textarea>
           <button class="btn" type="submit">Post</button>
         </form>
-      </div>
     </div>
   </section>
 
@@ -673,34 +562,12 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
-  <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
+          <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
           <textarea name="text" placeholder="Leave a comment..." required></textarea>
           <button class="btn" type="submit">Post</button>
         </form>
-      </div>
     </div>
   </section>
 
@@ -756,34 +623,12 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
- <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
+             <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
           <textarea name="text" placeholder="Leave a comment..." required></textarea>
           <button class="btn" type="submit">Post</button>
         </form>
-      </div>
     </div>
 
    <!-- Video Card -->
@@ -838,34 +683,12 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
-   <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
+             <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
           <textarea name="text" placeholder="Leave a comment..." required></textarea>
           <button class="btn" type="submit">Post</button>
         </form>
-      </div>
     </div>
 
   
@@ -920,34 +743,12 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
-  <div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
+            <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
           <textarea name="text" placeholder="Leave a comment..." required></textarea>
           <button class="btn" type="submit">Post</button>
         </form>
-      </div>
     </div>
   </section>
 
@@ -1003,34 +804,12 @@ var disqus_config = function () {
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-        <div id="disqus_thread"></div>
-<script>
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "https://mythicaljay1229.github.io/MJay-Editz";  
-  this.page.identifier = "MJay-Editz";  
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://mythicaljay1229-github-io-mjay-editz.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-  Please enable JavaScript to view the 
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-
-        <div class="comments"></div>
+            <div class="comments"></div>
         <form class="comment-form">
           <input type="text" name="name" placeholder="Your name" required>
           <textarea name="text" placeholder="Leave a comment..." required></textarea>
           <button class="btn" type="submit">Post</button>
         </form>
-      </div>
     </div>
   </section>
 
@@ -1095,6 +874,7 @@ var disqus_config = function () {
   <script id="dsq-count-scr" src="//https-mythicaljay1229-github-io-mjay-editz.disqus.com/count.js" async></script>
 </body>
 </html>
+
 
 
 
