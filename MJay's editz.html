@@ -730,16 +730,15 @@
   </footer>
 
   <script>
-    // Local storage for likes, views, comments
+    // Local storage for likes, views
     const data = JSON.parse(localStorage.getItem("mjayData") || "{}");
 
     document.querySelectorAll(".card").forEach(card => {
       const id = card.dataset.id;
-      if (!data[id]) data[id] = { likes: 0, views: 0, comments: [] };
+      if (!data[id]) data[id] = { likes: 0, views: 0  };
 
       const likesEl = card.querySelector(".likes");
       const viewsEl = card.querySelector(".views");
-      const commentsEl = card.querySelector(".comments");
 
       // Update UI
       function update() {
@@ -767,23 +766,11 @@
         data[id].views++;
         update();
       });
-
-      // Comment form
-      card.querySelector(".comment-form").addEventListener("submit", e => {
-        e.preventDefault();
-        const name = e.target.name.value.trim();
-        const text = e.target.text.value.trim();
-        if (name && text) {
-          data[id].comments.push({ name, text });
-          e.target.reset();
-          update();
-        }
-      });
     });
   </script>
-  <script id="dsq-count-scr" src="//https-mythicaljay1229-github-io-mjay-editz.disqus.com/count.js" async></script>
 </body>
 </html>
+
 
 
 
