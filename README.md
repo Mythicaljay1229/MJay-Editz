@@ -11,6 +11,9 @@
 </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MJay Editz.">
+  <meta name="keywords" content="videos">
+
   <title>MJay Editz - Video Showcase</title>
   <style>
     body { font-family: Arial, sans-serif; background: #111; color: #eee; margin: 0; }
@@ -40,7 +43,7 @@
     <h1>MJay Editz</h1>
     <nav>
       <a href="#gallery">Videos</a>
-      <a href="https://wa.me/08030471077/">Contact</a>
+      <a href="https://wa.me/08030471077?">Contact</a>
     </nav>
   </header>
 
@@ -97,21 +100,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-<script src="https://giscus.app/client.js"
-        data-repo="Mythicaljay1229/MJay-Editz"
-        data-repo-id="R_kgDOQja4Og"
-        data-category="General"
-        data-category-id="DIC_kwDOQja4Os4CzyIx"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
     </div>
 
     <!-- Another Video Card -->
@@ -122,6 +110,7 @@
       </video>
       <div class="card-body">
         <h3>Tony parker Edit</h3>
+        <p>by mjay</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
@@ -165,21 +154,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-<script src="https://giscus.app/client.js"
-        data-repo="Mythicaljay1229/MJay-Editz"
-        data-repo-id="R_kgDOQja4Og"
-        data-category="General"
-        data-category-id="DIC_kwDOQja4Os4CzyIx"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>      
     </div>
   </section>
 
@@ -235,22 +209,6 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="comments"></div>
-<script src="https://giscus.app/client.js"
-        data-repo="Mythicaljay1229/MJay-Editz"
-        data-repo-id="R_kgDOQja4Og"
-        data-category="General"
-        data-category-id="DIC_kwDOQja4Os4CzyIx"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
     </div>
   </section>
 
@@ -306,21 +264,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-      <script src="https://giscus.app/client.js"
-        data-repo="Mythicaljay1229/MJay-Editz"
-        data-repo-id="R_kgDOQja4Og"
-        data-category="General"
-        data-category-id="DIC_kwDOQja4Os4CzyIx"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
     </div>
   </section>
 
@@ -377,12 +320,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-           <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
     </div>
   </section>
 
@@ -438,12 +375,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-           <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
     </div>
   </section>
 
@@ -500,12 +431,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-             <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
     </div>
   </section>
 
@@ -562,11 +487,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-          <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
         </form>
     </div>
   </section>
@@ -623,12 +543,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-             <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
     </div>
 
    <!-- Video Card -->
@@ -639,7 +553,7 @@
       </video>
       <div class="card-body">
         <h10>LeBron James</h10>
-<p>by mjay</p>
+<p>by posher</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
@@ -683,12 +597,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-             <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
     </div>
 
   
@@ -743,12 +651,6 @@
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
         </div>
-            <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
     </div>
   </section>
 
@@ -803,13 +705,78 @@
         <div class="stats">
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
+
+ <!-- Another Video Card -->
+    <div class="card" data-id="video2">
+      <video controls>
+        <source src="videos/7.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <h3>Mythicaljay</h3>
+        <p>by mjay</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
         </div>
-            <div class="comments"></div>
-        <form class="comment-form">
-          <input type="text" name="name" placeholder="Your name" required>
-          <textarea name="text" placeholder="Leave a comment..." required></textarea>
-          <button class="btn" type="submit">Post</button>
-        </form>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
+        <div class="stats">
+          <span class="likes">0 Likes</span> • 
+          <span class="views">0 Views</span>
+        </div>
+    </div>
+  </section>
+
+          
+        </div> <script src="https://giscus.app/client.js"
+        data-repo="Mythicaljay1229/MJay-Editz"
+        data-repo-id="R_kgDOQja4Og"
+        data-category="General"
+        data-category-id="DIC_kwDOQja4Os4CzyIx"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
     </div>
   </section>
 
@@ -820,16 +787,15 @@
   </footer>
 
   <script>
-    // Local storage for likes, views, comments
+    // Local storage for likes, views
     const data = JSON.parse(localStorage.getItem("mjayData") || "{}");
 
     document.querySelectorAll(".card").forEach(card => {
       const id = card.dataset.id;
-      if (!data[id]) data[id] = { likes: 0, views: 0, comments: [] };
+      if (!data[id]) data[id] = { likes: 0, views: 0  };
 
       const likesEl = card.querySelector(".likes");
       const viewsEl = card.querySelector(".views");
-      const commentsEl = card.querySelector(".comments");
 
       // Update UI
       function update() {
@@ -857,23 +823,14 @@
         data[id].views++;
         update();
       });
-
-      // Comment form
-      card.querySelector(".comment-form").addEventListener("submit", e => {
-        e.preventDefault();
-        const name = e.target.name.value.trim();
-        const text = e.target.text.value.trim();
-        if (name && text) {
-          data[id].comments.push({ name, text });
-          e.target.reset();
-          update();
-        }
-      });
     });
   </script>
-  <script id="dsq-count-scr" src="//https-mythicaljay1229-github-io-mjay-editz.disqus.com/count.js" async></script>
 </body>
 </html>
+
+
+
+
 
 
 
