@@ -780,7 +780,35 @@
     </div>
   </section>
 
+ <section id="leaderboard">
+    <div class="leaderboard">
+      <h11>🏆 Most Visits Leaderboard cities</h11>
+      <ol id="leaderboard-list">
+        <!-- Dynamic data will be injected here -->
+      </ol>
+    </div>
+ </section>
 
+  <script>
+    // Example static data (replace with real analytics later)
+    const leaderboardData = [
+      { username: "Abuja", visits: 15 },
+      { username: "Lagos", visits: 7 },
+      { username: "Port harcourt", visits: 3 },
+      { username: "Benin city", visits: 2 },
+      { username: "San jose", visits: 2 },
+      { username: " jos", visits: 1 },
+      { username: "Krasnodar", visits: 1 },
+
+    ];
+
+    const list = document.getElementById("leaderboard-list");
+    leaderboardData.forEach(user => {
+      const li = document.createElement("li");
+      li.innerHTML = `<span>${user.username}</span><span>${user.visits} visits</span>`;
+      list.appendChild(li);
+    });
+  </script>
 
   <footer>
     © 2025 Rocketstar3 — All rights reserved.
@@ -827,6 +855,7 @@
   </script>
 </body>
 </html>
+
 
 
 
