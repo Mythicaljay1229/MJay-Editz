@@ -48,6 +48,24 @@
     </nav>
   </header>
 
+<button onclick="toggleTheme()">🌙 Toggle Theme</button>
+
+<style>
+  body.light { background: #f4f4f4; color: #000; }
+  body.dark { background: #121212; color: #fff; }
+  .leaderboard { transition: background 0.3s, color 0.3s; }
+</style>
+
+<script>
+  function toggleTheme() {
+    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
+  }
+  // Default theme
+  document.body.classList.add("light");
+</script>
+
+  
   <section id="gallery" class="gallery">
     <!-- Video Card -->
     <div class="card" data-id="video1">
@@ -877,6 +895,7 @@
   </script>
 </body>
 </html>
+
 
 
 
