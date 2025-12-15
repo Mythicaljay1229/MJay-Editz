@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -794,10 +793,10 @@
   <script>
     // Example static data (replace with real analytics later)
     const leaderboardData = [
-      { username: "🥇 Nigeria", visits:  22 },
-      { username: "🥈 USA", visits:  2 },
-      { username: "🥉 Israel", visits:  1 },
-      { username: "Russia", visits: 1 },
+      { username: "🥇 Nigeria", visits:   22 },
+      { username: "🥈 USA", visits:   2 },
+      { username: "🥉 Israel", visits:   1 },
+      { username: "Russia", visits:  1 },
      
 
     ];
@@ -810,6 +809,29 @@
     });
   </script>
 
+<div class="progress-container">
+  <div class="progress-bar" id="progress-bar">0%</div>
+</div>
+
+<script>
+  const currentVisits = 42;  // replace with your actual visits
+  const goal = 100;
+  const target = Math.min((currentVisits / goal) * 100, 100);
+
+  let width = 0;
+  const bar = document.getElementById("progress-bar");
+  const interval = setInterval(() => {
+    if (width >= target) {
+      clearInterval(interval);
+    } else {
+      width++;
+      bar.style.width = width + "%";
+      bar.textContent = width + "%";
+    }
+  }, 30); // speed of animation
+</script>
+
+  
   <footer>
     © 2025 Rocketstar3 — All rights reserved.
   </footer>
