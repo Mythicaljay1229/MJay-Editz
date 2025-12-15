@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,6 +45,7 @@
     <nav>
       <a href="#gallery">Videos</a>
       <a href="https://wa.me/08030471077?">Contact</a>
+       <a href="#leaderboard">Leaderboard</a>
     </nav>
   </header>
 
@@ -792,9 +794,9 @@
   <script>
     // Example static data (replace with real analytics later)
     const leaderboardData = [
-      { username: "Nigeria", visits:  22 },
-      { username: "USA", visits:  2 },
-      { username: "Israel", visits:  1 },
+      { username: "🥇 Nigeria", visits:  22 },
+      { username: "🥈 USA", visits:  2 },
+      { username: "🥉 Israel", visits:  1 },
       { username: "Russia", visits: 1 },
      
 
@@ -853,6 +855,7 @@
   </script>
 </body>
 </html>
+
 
 
 
