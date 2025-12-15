@@ -831,22 +831,35 @@
   <div class="progress-bar" id="progress-bar">0%</div>
 </div>
 
-<script>
-  const currentVisits = 42;  // replace with your actual visits
-  const goal = 100;
-  const target = Math.min((currentVisits / goal) * 100, 100);
+<style>
+  .progress-container {
+    width: 80%;
+    background: #e0e0e0;   /* gray background */
+    border-radius: 25px;
+    margin: 20px auto;
+    padding: 3px;
+  }
+  .progress-bar {
+    height: 25px;
+    width: 0%;             /* start empty */
+    background-color: #2196f3; /* solid blue */
+    border-radius: 25px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    transition: width 0.5s ease;
+  }
+</style>
 
-  let width = 0;
+<script>
+  const currentVisits = 42;
+  const goal = 100;
+
+  const progress = Math.min((currentVisits / goal) * 100, 100);
   const bar = document.getElementById("progress-bar");
-  const interval = setInterval(() => {
-    if (width >= target) {
-      clearInterval(interval);
-    } else {
-      width++;
-      bar.style.width = width + "%";
-      bar.textContent = width + "%";
-    }
-  }, 30); // speed of animation
+
+  bar.style.width = progress + "%";
+  bar.textContent = Math.round(progress) + "%";
 </script>
 
   
@@ -895,6 +908,7 @@
   </script>
 </body>
 </html>
+
 
 
 
