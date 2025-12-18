@@ -94,6 +94,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
+    <button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+
 </div>
 
 <style>
@@ -115,6 +120,8 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
+
+
         <div class="stats">
           <span class="likes">0 Likes</span> • 
           <span class="views">0 Views</span>
@@ -148,6 +155,10 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
 </div>
 
 <style>
@@ -207,6 +218,10 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
 </div>
 
 <style>
@@ -258,7 +273,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -314,7 +333,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -369,7 +392,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -425,7 +452,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -481,7 +512,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -537,7 +572,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -591,7 +630,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -645,7 +688,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -700,7 +747,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -752,7 +803,11 @@
   <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
     WhatsApp
   </a>
-</div>
+<button onclick="window.open('https://www.snapchat.com/scan?attachmentUrl=https//mythicaljay1229.github.io/MJay-Editz/&add=Mythicaljay1229','_blank')" 
+        style="background-color:#FFFC00; color:black; border:none; padding:12px 24px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:16px;">
+  👻 Share & Follow on Snapchat
+</button>
+        </div>
 
 <style>
 .share-buttons {
@@ -811,7 +866,7 @@
   <script>
     // Example static data (replace with real analytics later)
     const leaderboardData = [
-      { username: "🥇 Nigeria", visits:   51 },
+      { username: "🥇 Nigeria", visits:   54  },
       { username: "🥈 USA", visits:   2 },
       { username: "🥉 Israel", visits:   1 },
       { username: "Russia", visits:  1 },
@@ -852,7 +907,7 @@
 </style>
 
 <script>
-  const currentVisits = 71;
+  const currentVisits = 83;
   const goal = 100;
 
   const progress = Math.min((currentVisits / goal) * 100, 100);
@@ -908,6 +963,9 @@
   </script>
 </body>
 </html>
+
+
+
 
 
 
