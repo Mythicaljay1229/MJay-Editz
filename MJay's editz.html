@@ -870,7 +870,7 @@
       { username: "🥈 USA", visits:   2 },
       { username: "🥉 Israel", visits:   1 },
       { username: "Russia", visits:  1 },
-     
+     { username: "Morocco", visits:  1 },
 
     ];
 
@@ -963,6 +963,7 @@
   </script>
 </body>
 </html>
+
 
 
 
