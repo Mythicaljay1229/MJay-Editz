@@ -866,7 +866,7 @@
   <script>
     // Example static data (replace with real analytics later)
     const leaderboardData = [
-      { username: "🥇 Nigeria", visits:   54  },
+      { username: "🥇 Nigeria", visits:   61  },
       { username: "🥈 USA", visits:   2 },
       { username: "🥉 Israel", visits:   1 },
       { username: "Russia", visits:  1 },
@@ -907,7 +907,7 @@
 </style>
 
 <script>
-  const currentVisits = 83;
+  const currentVisits = 90;
   const goal = 100;
 
   const progress = Math.min((currentVisits / goal) * 100, 100);
@@ -963,6 +963,7 @@
   </script>
 </body>
 </html>
+
 
 
 
