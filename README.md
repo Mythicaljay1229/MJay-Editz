@@ -907,7 +907,7 @@
 </style>
 
 <script>
-  const currentVisits = 90;
+  const currentVisits = 51;
   const goal = 100;
 
   const progress = Math.min((currentVisits / goal) * 100, 100);
@@ -916,6 +916,7 @@
   bar.style.width = progress + "%";
   bar.textContent = Math.round(progress) + "%";
 </script>
+        <p>New viewers this week</p>
 
   
   <footer>
@@ -963,6 +964,7 @@
   </script>
 </body>
 </html>
+
 
 
 
