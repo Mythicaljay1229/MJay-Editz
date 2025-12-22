@@ -13,6 +13,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="MJay Editz.">
   <meta name="keywords" content="videos">
+  <link rel="stylesheet" href="style.css">
+
 
   <title>MJay Editz - Video Showcase</title>
   <style>
@@ -907,7 +909,7 @@
 </style>
 
 <script>
-  const currentVisits = 51;
+  const currentVisits = 59;
   const goal = 100;
 
   const progress = Math.min((currentVisits / goal) * 100, 100);
@@ -917,6 +919,66 @@
   bar.textContent = Math.round(progress) + "%";
 </script>
         <p>New viewers this week</p>
+
+<section id="update-votes">
+  <h2>Vote for the Next Update</h2>
+  <p>Choose what you’d like to see added to MJay Editz!</p>
+  
+  <div class="topics">
+    <!-- News Headlines -->
+    <div class="topic-card" data-topic="News Headlines">
+      <h3>📰 News Headlines</h3>
+      <button class="vote-btn">👍 Vote</button>
+      <span class="vote-count">0 votes</span>
+    </div>
+
+    <!-- Editor of the Week -->
+    <div class="topic-card" data-topic="Editor of the Week">
+      <h3>⭐ Editor of the Week</h3>
+      <button class="vote-btn">👍 Vote</button>
+      <span class="vote-count">0 votes</span>
+    </div>
+
+    <!-- Educational Vids -->
+    <div class="topic-card" data-topic="Educational Vids">
+      <h3>📚 Educational Vids</h3>
+      <button class="vote-btn">👍 Vote</button>
+      <span class="vote-count">0 votes</span>
+    </div>
+
+    <!-- Football Edits -->
+    <div class="topic-card" data-topic="Football Edits">
+      <h3>⚽ Football Edits</h3>
+      <button class="vote-btn">👍 Vote</button>
+      <span class="vote-count">0 votes</span>
+    </div>
+
+    <!-- Volleyball Edits -->
+    <div class="topic-card" data-topic="Volleyball Edits">
+      <h3>🏐 Volleyball Edits</h3>
+      <button class="vote-btn">👍 Vote</button>
+      <span class="vote-count">0 votes</span>
+    </div>
+
+    <!-- Holiday Themes -->
+    <div class="topic-card" data-topic="Holiday Themes">
+      <h3>🎄 Holiday Themes</h3>
+      <button class="vote-btn">👍 Vote</button>
+      <span class="vote-count">0 votes</span>
+    </div>
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll('.vote-btn').forEach(button => {
+    button.addEventListener('click', () => {
+      let countSpan = button.nextElementSibling;
+      let currentVotes = parseInt(countSpan.textContent);
+      countSpan.textContent = `${currentVotes + 1} votes`;
+    });
+  });
+</script>
+
 
   
   <footer>
@@ -964,6 +1026,8 @@
   </script>
 </body>
 </html>
+
+
 
 
 
