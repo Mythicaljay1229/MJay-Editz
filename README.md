@@ -807,14 +807,6 @@
   }
 </style>
 
-<div class="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>
-  commentBox('5638891411341312-proj', {
-    className: 'commentbox',
-    pageID: window.location.pathname
-  });
-</script>
 
 
 <script>
@@ -946,6 +938,7 @@
   </script>
 </body>
 </html>
+
 
 
 
