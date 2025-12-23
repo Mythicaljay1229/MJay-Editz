@@ -938,10 +938,23 @@
         data[id].views++;
         update();
       });
+   
+      // Comment form
+      card.querySelector(".comment-form").addEventListener("submit", e => {
+        e.preventDefault();
+        const name = e.target.name.value.trim();
+        const text = e.target.text.value.trim();
+        if (name && text) {
+          data[id].comments.push({ name, text });
+          e.target.reset();
+          update();
+        }
+      });
     });
   </script>
 </body>
 </html>
+
 
 
 
