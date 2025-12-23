@@ -770,10 +770,10 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-  </section>
-        
+  
+  
+ <h3>COMMENTS</h3>       
 <!-- Cusdis Comment Section -->   
-<h3>COMMENTS</h3>
 <div id="cusdis_thread"
      data-host="https://cusdis.com"
      data-app-id="ce751a3d-6523-48f3-b05d-5d13a60c9f21"
