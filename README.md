@@ -771,12 +771,16 @@
 .share-btn.whatsapp { background: #25D366; }
 </style>
   </section>
-
- <div id="commentbox"></div>
- <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>
-  commentBox('5638891411341312-proj');
-</script>
+        
+<!-- Cusdis Comment Section -->        
+<div id="cusdis_thread"
+     data-host="https://cusdis.com"
+     data-app-id="ce751a3d-6523-48f3-b05d-5d13a60c9f21"
+     data-page-id="{{ MJay-Editz }}"
+     data-page-url="{{ https://mythicaljay1229.github.io/MJay-Editz }}"
+     data-page-title="{{ comments }}">
+</div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
 
 <div class="progress-container">
@@ -942,6 +946,7 @@
   </script>
 </body>
 </html>
+
 
 
 
