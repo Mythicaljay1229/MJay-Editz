@@ -780,24 +780,11 @@
     </div>
   </section>
 
-          
-        </div> <script src="https://giscus.app/client.js"
-        data-repo="Mythicaljay1229/MJay-Editz"
-        data-repo-id="R_kgDOQja4Og"
-        data-category="General"
-        data-category-id="DIC_kwDOQja4Os4CzyIx"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
+ <div id="commentbox"></div>
+ <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>
+  commentBox('5638891411341312-proj');
 </script>
-    </div>
-  </section>
 
 
 <div class="progress-container">
@@ -954,6 +941,7 @@
   </script>
 </body>
 </html>
+
 
 
 
