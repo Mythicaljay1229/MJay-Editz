@@ -13,8 +13,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="MJay Editz.">
   <meta name="keywords" content="videos">
-  <link rel="stylesheet" href="style.css">
-
 
   <title>MJay Editz - Video Showcase</title>
   <style>
@@ -75,7 +73,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h3>houston rockets edit</h3>
+        <p>houston rockets edit</p>
 <p>by mjay</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -131,7 +129,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h3>Tony parker Edit</h3>
+        <p>Tony parker Edit</p>
         <p>by mjay</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -186,7 +184,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h4>nba players</h4>
+        <p>nba players</p>
 <p>by posher</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -241,7 +239,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h5>nba2k20 dunks</h5>
+        <h2>nba2k20 dunks</h2>
 <p>by k4mbingggmeh</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -296,7 +294,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h6>nba2k20 dunks</h6>
+        <p>nba2k20 dunks</p>
 <p>by unclej064</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -351,7 +349,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h7>kuroku no basket</h7>
+        <p>kuroku no basket</p>
 <p>by Imani</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -407,7 +405,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h9>Minecraft</h9>
+        <p>Minecraft</p>
         <p>by posher</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -463,7 +461,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h8>stephen curry</h8>
+        <p>stephen curry</p>
 <p>by MJay</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -519,7 +517,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h9>Minecraft</h9>
+        <h2>Minecraft</h2>
 <p>by posher</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -573,7 +571,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h10>LeBron James</h10>
+        <h2>LeBron James</h2>
 <p>by posher</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
@@ -628,7 +626,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h3>facts</h3>
+        <p>facts</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
@@ -683,7 +681,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h3>Facts</h3>
+        <p>Facts</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
         </div>
@@ -734,7 +732,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <h3>Mythicaljay</h3>
+        <p>Mythicaljay</p>
         <p>by mjay</p>
         <div class="actions">
           <button class="btn like-btn">👍 Like</button>
