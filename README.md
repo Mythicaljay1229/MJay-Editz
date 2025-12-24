@@ -770,10 +770,10 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-  
-  
- <h3>COMMENTS</h3>       
+  </section>
+        
 <!-- Cusdis Comment Section -->   
+<h3>COMMENTS</h3>
 <div id="cusdis_thread"
      data-host="https://cusdis.com"
      data-app-id="ce751a3d-6523-48f3-b05d-5d13a60c9f21"
@@ -937,8 +937,13 @@
       });
     });
   </script>
+
+<h3>VISIT OUR OTHER WEBSITES</h3>
+        <A href="https://mythicaljay1229.github.io/Jstore.github.io/">Jstore</A>
+        <A href="https://mythicaljay1229.githhub.io/triplehands-website/">Triple Hands Agro Food Enterprises</A>
 </body>
 </html>
+
 
 
 
