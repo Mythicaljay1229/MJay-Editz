@@ -939,10 +939,13 @@
   </script>
 
 <h3>VISIT OUR OTHER WEBSITES</h3>
-        <A href="https://mythicaljay1229.github.io/Jstore.github.io/">Jstore</A>
-        <A href="https://mythicaljay1229.githhub.io/triplehands-website/">Triple Hands Agro Food Enterprises</A>
+        <ol>
+   <li>  <A href="https://mythicaljay1229.github.io/Jstore.github.io/">Jstore</A></li>
+    <li>   <A href="https://mythicaljay1229.github.io/triplehands-website/">Triple Hands Agro Food Enterprises</A></li>
+        </ol>
 </body>
 </html>
+
 
 
 
