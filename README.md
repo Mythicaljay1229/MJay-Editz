@@ -14,6 +14,20 @@
   <meta name="description" content="MJay Editz.">
   <meta name="keywords" content="videos">
 
+  <!-- Standard favicon -->
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+<!-- PNG version -->
+<link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
+
+<!-- Apple devices -->
+<link rel="apple-touch-icon" href="favicon.png" sizes="180x180">
+
+<!-- Android/Chrome -->
+<link rel="icon" href="favicon-192.png" sizes="192x192">
+<link rel="icon" href="favicon-512.png" sizes="512x512">
+
+
   <title>MJay Editz - Video Showcase</title>
   <style>
     body { font-family: Arial, sans-serif; background: #111; color: #eee; margin: 0; }
@@ -945,6 +959,7 @@
         </ol>
 </body>
 </html>
+
 
 
 
