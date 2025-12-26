@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,18 +14,9 @@
   <meta name="description" content="MJay Editz.">
   <meta name="keywords" content="videos">
 
-  <!-- Standard favicon -->
-<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" href="favicon.png">
 
-<!-- PNG version -->
-<link rel="icon" href="favicon.png" type="image/png" sizes="32x32">
 
-<!-- Apple devices -->
-<link rel="apple-touch-icon" href="favicon.ico" sizes="180x180">
-
-<!-- Android/Chrome -->
-<link rel="icon" href="favicon-192.ico" sizes="192x192">
-<link rel="icon" href="favicon-512.ico" sizes="512x512">
 
 
   <title>MJay Editz - Video Showcase</title>
@@ -912,7 +902,6 @@
         </ol>
 </body>
 </html>
-
 
 
 
