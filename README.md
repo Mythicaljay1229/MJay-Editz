@@ -817,16 +817,11 @@
 </div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
-<div data-tf-live="01KDE8ZQHE846KCRGF6XZ5BT2V"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBCKYVZOYyv8kFAblX5LkewolOSOebSBJtk0WHKcnRsf5w9w/viewform?usp=dialog."></iframe>
 
 <section id="update-votes">
   <h2>Vote for the Next Update</h2>
   <p>Choose what you’d like to see added to MJay Editz!</p>
-
-
- 
-
-
   
   <div data-tf-live="01KD9GREXQ4RFBS97ATP69FCNR"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
@@ -894,6 +889,8 @@
         </ol>
 </body>
 </html>
+
+
 
 
 
