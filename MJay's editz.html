@@ -817,8 +817,12 @@
 </div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBCKYVZOYyv8kFAblX5LkewolOSOebSBJtk0WHKcnRsf5w9w/viewform?usp=dialog."></iframe>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeBCKYVZOYyv8kFAblX5LkewolOSOebSBJtk0WHKcnRsf5w9w/viewform?usp=dialog" target="blank"
+   style="display:inline-block; padding:12px 20px; background:#000000; color:#ff0000; text-decoration:none; border-radius:6px;">
+   Upload Your Video
+</a>
 
+  
 <section id="update-votes">
   <h2>Vote for the Next Update</h2>
   <p>Choose what you’d like to see added to MJay Editz!</p>
@@ -889,6 +893,7 @@
         </ol>
 </body>
 </html>
+
 
 
 
