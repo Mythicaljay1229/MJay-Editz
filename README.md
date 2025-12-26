@@ -817,44 +817,7 @@
 </div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
-
-<div class="progress-container">
-  <div class="progress-bar" id="progress-bar">0%</div>
-</div>
-
-<style>
-  .progress-container {
-    width: 80%;
-    background: #e0e0e0;   /* gray background */
-    border-radius: 25px;
-    margin: 20px auto;
-    padding: 3px;
-  }
-  .progress-bar {
-    height: 25px;
-    width: 0%;             /* start empty */
-    background-color: #2196f3; /* solid blue */
-    border-radius: 25px;
-    text-align: center;
-    color: white;
-    font-weight: bold;
-    transition: width 0.5s ease;
-  }
-</style>
-
-
-
-<script>
-  const currentVisits = 34;
-  const goal = 100;
-
-  const progress = Math.min((currentVisits / goal) * 100, 100);
-  const bar = document.getElementById("progress-bar");
-
-  bar.style.width = progress + "%";
-  bar.textContent = Math.round(progress) + "%";
-</script>
-        <p>New viewers this week</p>
+<div data-tf-live="01KDE8ZQHE846KCRGF6XZ5BT2V"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 <section id="update-votes">
   <h2>Vote for the Next Update</h2>
@@ -931,6 +894,7 @@
         </ol>
 </body>
 </html>
+
 
 
 
