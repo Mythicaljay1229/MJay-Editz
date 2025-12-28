@@ -755,6 +755,26 @@
     WhatsApp
   </a>
         </div>
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
+  </section>
 
  <!-- Another Video Card -->
     <div class="card" data-id="video2">
@@ -805,7 +825,108 @@
 .share-btn.whatsapp { background: #25D366; }
 </style>
   </section>
-        
+
+ <!-- Another Video Card -->
+    <div class="card" data-id="video2">
+      <video controls>
+        <source src="videos/1225.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <p>by mjay</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+        </div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
+  </section>
+
+ <!-- Another Video Card -->
+    <div class="card" data-id="video2">
+      <video controls>
+        <source src="videos/03.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <p>Ronaldo?</p>
+        <p>by mjay</p>
+        <div class="actions">
+          <button class="btn like-btn">👍 Like</button>
+        </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+        </div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
+  </section>
+
+<p>NEXT UPDATE: 13/12/2025</p>
+  
 <!-- Cusdis Comment Section -->   
 <h3>COMMENTS</h3>
 <div id="cusdis_thread"
@@ -893,65 +1014,3 @@
         </ol>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
