@@ -58,43 +58,11 @@
       <a href="https://wa.me/08030471077">Contact</a>
     </nav>
 
-    <!-- Search bar inside header -->
-    <div class="search">
-      <input id="search" type="search" placeholder="Search videos..." aria-label="Search videos">
+  <div class="search">
+      <input id="search" type="search" placeholder="Search products (e.g., yam flour,corn flour)" aria-label="Search products">
       <button class="btn btn-primary" onclick="applySearch()">Search</button>
     </div>
-  </header>
 
-  <!-- Gallery -->
-  <section id="gallery">
-    <div class="card">houston rocket edit</div>
-    <div class="card">Tony parker edit</div>
-    <div class="card">nba players</div>
-    <div class="card">nba 2k20 dunks</div>
-    <div class="card">kuroku no basket</div>
-    <div class="card">Minecraft</div>
-    <div class="card">Stephen curry</div>
-    <div class="card">Lebron james</div>
-    <div class="card">facts</div>
-    <div class="card">Mythicaljay</div>
-    <div class="card">BMW</div>
-    <div class="card">Ronaldo?</div>
-  </section>
-
-  <script>
-    function applySearch() {
-      const query = document.getElementById("search").value.toLowerCase();
-      const cards = document.querySelectorAll("#gallery .card");
-
-      cards.forEach(card => {
-        const text = card.textContent.toLowerCase();
-        card.style.display = text.includes(query) ? "" : "none";
-      });
-    }
-  </script>
-
-    </nav>
-  </header>
 
 <button onclick="toggleTheme()">🌙 Toggle Theme</button>
 
@@ -1085,6 +1053,7 @@
         </ol>
 </body>
 </html>
+
 
 
 
