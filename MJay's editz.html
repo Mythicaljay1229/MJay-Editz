@@ -49,6 +49,50 @@
     <nav>
       <a href="#gallery">Videos</a>
       <a href="https://wa.me/08030471077?">Contact</a>
+
+  <body>
+  <header>
+    <h1>MJay Editz</h1>
+    <nav>
+      <a href="#gallery">Videos</a>
+      <a href="https://wa.me/08030471077">Contact</a>
+    </nav>
+
+    <!-- Search bar inside header -->
+    <div class="search">
+      <input id="search" type="search" placeholder="Search videos..." aria-label="Search videos">
+      <button class="btn btn-primary" onclick="applySearch()">Search</button>
+    </div>
+  </header>
+
+  <!-- Gallery -->
+  <section id="gallery">
+    <div class="card">houston rocket edit</div>
+    <div class="card">Tony parker edit</div>
+    <div class="card">nba players</div>
+    <div class="card">nba 2k20 dunks</div>
+    <div class="card">kuroku no basket</div>
+    <div class="card">Minecraft</div>
+    <div class="card">Stephen curry</div>
+    <div class="card">Lebron james</div>
+    <div class="card">facts</div>
+    <div class="card">Mythicaljay</div>
+    <div class="card">BMW</div>
+    <div class="card">Ronaldo?</div>
+  </section>
+
+  <script>
+    function applySearch() {
+      const query = document.getElementById("search").value.toLowerCase();
+      const cards = document.querySelectorAll("#gallery .card");
+
+      cards.forEach(card => {
+        const text = card.textContent.toLowerCase();
+        card.style.display = text.includes(query) ? "" : "none";
+      });
+    }
+  </script>
+
     </nav>
   </header>
 
@@ -120,14 +164,8 @@
 </style>
 
 
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
-    </div>
-
     <!-- Another Video Card -->
-    <div class="card" data-id="video2">
+    <div class="card" data-id="basketball">
       <video controls>
         <source src="videos/tonyparkeredit.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -181,7 +219,7 @@
   </section>
 
 <!-- Another Video Card -->
-    <div class="card" data-id="video2">
+    <div class="card" data-id="basketball">
       <video controls>
         <source src="videos/edit2.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -819,7 +857,7 @@
         Your browser does not support the video tag.
       </video>
       <div class="card-body">
-        <p>by mjay</p>
+        <p>Mythicaljay</p>
         <div class="actions">
         </div>
         <div class="share-buttons">
@@ -1047,6 +1085,7 @@
         </ol>
 </body>
 </html>
+
 
 
 
