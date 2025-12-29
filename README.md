@@ -45,10 +45,6 @@
 </head>
 <body>
   <header>
-    <h1>MJay Editz</h1>
-    <nav>
-      <a href="#gallery">Videos</a>
-      <a href="https://wa.me/08030471077?">Contact</a>
 
   <body>
   <header>
@@ -85,7 +81,7 @@
     <div class="editor-info">
       <p>.</p>
       <video controls>
-        <source src="videos/tonyparkeredit.mp4" type="video/mp4">
+        <source src="videos/1225.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
@@ -1064,6 +1060,10 @@
         </ol>
 </body>
 </html>
+
+
+
+
 
 
 
