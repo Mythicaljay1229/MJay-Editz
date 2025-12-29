@@ -58,10 +58,7 @@
       <a href="https://wa.me/08030471077">Contact</a>
     </nav>
 
-  <div class="search">
-      <input id="search" type="search" placeholder="Search products (e.g., yam flour,corn flour)" aria-label="Search products">
-      <button class="btn btn-primary" onclick="applySearch()">Search</button>
-    </div>
+  
 
 
 <button onclick="toggleTheme()">🌙 Toggle Theme</button>
@@ -81,6 +78,20 @@
   document.body.classList.add("light");
 </script>
 
+<section id="editor-of-week" class="highlight">
+  <h2>✨ Editor of the Week ✨</h2>
+  <div class="editor-card">
+    <img src="image/favicon.ico.png" alt="Editor photo" class="editor-photo">
+    <div class="editor-info">
+      <p>.</p>
+      <video controls>
+        <source src="videos/tonyparkeredit.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+</section>
+<p>Upload your video to be the editor of the week</p>
   
   <section id="gallery" class="gallery">
     <!-- Video Card -->
@@ -1053,8 +1064,6 @@
         </ol>
 </body>
 </html>
-
-
 
 
 
