@@ -91,6 +91,54 @@
   
   <section id="gallery" class="gallery">
 
+        <!-- Video Card -->
+    <div class="card" data-id="video1">
+      <video controls>
+        <source src="videos/05.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <p>BMW</p>
+<p>by mjay</p>
+        <div class="actions">
+        </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
+
     <!-- Video Card -->
     <div class="card" data-id="video1">
       <video controls>
@@ -1052,16 +1100,7 @@
   </footer>
 
   <script>
-    // Local storage for likes, views
-    const data = JSON.parse(localStorage.getItem("mjayData") || "{}");
-
-    document.querySelectorAll(".card").forEach(card => {
-      const id = card.dataset.id;
-      if (!data[id]) data[id] = { likes: 0, views: 0  };
-
-      const likesEl = card.querySelector(".likes");
-      const viewsEl = card.querySelector(".views");
-
+    
       // Update UI
       function update() {
         likesEl.textContent = data[id].likes + " Likes";
@@ -1076,17 +1115,6 @@
       }
       update();
 
-      // Like button
-      card.querySelector(".like-btn").addEventListener("click", () => {
-        data[id].likes++;
-        update();
-      });
-
-      // View counter
-      card.querySelector("video").addEventListener("play", () => {
-        data[id].views++;
-        update();
-      });
    
       // Comment form
       card.querySelector(".comment-form").addEventListener("submit", e => {
@@ -1229,6 +1257,7 @@
   
 </body>
 </html>
+
 
 
 
