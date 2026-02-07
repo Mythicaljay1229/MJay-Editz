@@ -102,6 +102,54 @@
   
   <section id="gallery" class="gallery">
 
+              <!-- Video Card -->
+    <div class="card" data-id="video1">
+      <video controls>
+        <source src="videos/jedit3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="card-body">
+        <p>Minecraft </p>
+<p>by mjay</p>
+        <div class="actions">
+        </div>
+        <div class="share-buttons">
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?url=https://mythicaljay1229.github.io/MJay-Editz&text=Check+out+this+edit!" target="_blank" class="share-btn twitter">
+    Twitter
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn facebook">
+    Facebook
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?text=Check+out+this+edit! https://mythicaljay1229.github.io/MJay-Editz" target="_blank" class="share-btn whatsapp">
+    WhatsApp
+  </a>
+</div>
+
+<style>
+.share-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.share-btn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.share-btn.twitter { background: #1DA1F2; }
+.share-btn.facebook { background: #4267B2; }
+.share-btn.whatsapp { background: #25D366; }
+</style>
+
           <!-- Video Card -->
     <div class="card" data-id="video1">
       <video controls>
@@ -1155,39 +1203,12 @@
 
   
   <footer>
-    © 2025 Rocketstar3 — All rights reserved.
+    © 2026 Rocketstar3 — All rights reserved.
   </footer>
 
   <script>
     
-      // Update UI
-      function update() {
-        likesEl.textContent = data[id].likes + " Likes";
-        viewsEl.textContent = data[id].views + " Views";
-        data[id].comments.forEach(c => {
-          const div = document.createElement("div");
-          div.className = "comment";
-          div.innerHTML = `<strong>${c.name}</strong>: ${c.text}`;
-          commentsEl.appendChild(div);
-        });
-        localStorage.setItem("mjayData", JSON.stringify(data));
-      }
-      update();
 
-   
-      // Comment form
-      card.querySelector(".comment-form").addEventListener("submit", e => {
-        e.preventDefault();
-        const name = e.target.name.value.trim();
-        const text = e.target.text.value.trim();
-        if (name && text) {
-          data[id].comments.push({ name, text });
-          e.target.reset();
-          update();
-        }
-      });
-    });
-  </script>
 
 <h3>VISIT OUR OTHER WEBSITES</h3>
         <ol>
@@ -1196,126 +1217,11 @@
         </ol>
 
 
-<style> /* Chatbot bubble styling */
-  #chatbot { 
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 300px;
-    height: 400px;
-    border: 1px solid #ccc;
-    background: white; 
-    padding: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.3); 
-    display: flex; 
-    flex-direction: column;
-    font-family: Arial, sans-serif; 
-    z-index: 9999;
-  } 
-  #chat-log {
-    flex: 1; 
-    overflow-y: auto; 
-    margin-bottom: 10px;
-    font-size: 14px;
-  }
-  #chat-input { 
-    width: 80%; 
-    padding: 5px;
-  }
 
-  /* Add these lines here */
-  #send-btn { 
-    width: 18%; 
-    padding: 5px; 
-    margin-left: 2%;
-  }
-  p {
-    margin: 5px 0;
-  } 
-  #chat-log p.user {
-  text-align: right;
-  color: blue;
-}
-
-#chat-log p.bot {
-  text-align: left;
-  color: green;
-}
-
-</style>
-</head> 
-  <body> 
-    <!-- Chatbot widget --> 
-    <div id="chatbot">
-      <div id="chat-log"></div>
-      <div>
-        <input id="chat-input" type="text" placeholder="Type here...">
-        <button id="send-btn" onclick="sendMessage()">Send</button>
-      </div>
-    </div> 
-    
-    <script> 
-      // Responses dictionary
-      const responses = { "hello": ["Hello!", "Hi there!", "Hey 👋"],
-                         "hi": ["Hello!", "Hi there!", "Hey 👋"], 
-                         "hey": ["Hello!", "Hi there!", "Hey 👋"],
-                         "how are you": ["I'm doing great, thanks for asking!"], 
-                         "who are you": ["I'm the A.I chatbot for MJay-Editz"], 
-                         "bye": ["Goodbye! Talk to you later."], 
-                         " owner ": ["The owner of mjay editz is popularly known as Mythicaljay1229 or mjay. His real name is not known."], 
-                          "name": ["The owner of mjay editz is popularly known as Mythicaljay1229 or mjay. His real name is not known."],
-                          "full name": ["The owner of mjay editz is popularly known as Mythicaljay1229 or mjay. His real name is not known."],
-                          "who is the owner of Mjay-editz": ["The owner of mjay editz is popularly known as Mythicaljay1229 or mjay.His real name is not known."], 
-                         "when did he make this website": [" it was made on the 22nd november 2025"],  
-                          "best videos": ["these include videos like BMW, Minecraft, etc"], 
-                         "who are you": ["I'm the AI chatbot for MJay Editz, here to answer your questions and guide you."],
-                         "what kind": ["we create edits and videos, including car edits, games and more."], 
-                         "make": ["yes! you can upload your video using the upload button."],
-                         "charge": ["some edits are free while some have a cost within a price range of N500-N2000."],
-                         "free": ["some edits are free while some have a cost within a price range of N500-N2000."],
-                         "how long oes it take to finish": ["It depends on the complexity of the video being uploaded."],
-                         "contact": ["you can reach us throught the comment section."],
-                         "collaborate": ["Absolutely! you can share your ideas with us in the upload form."],
-                          "upload": ["Absolutely! you can share your ideas with us in the upload form."],
-                        }; 
-      
-      // Helper function to pick random reply
-      function randomChoice(arr) {
-        return arr[Math.floor(Math.random() * arr.length)];
-      } // Chatbot response function 
-      function chatbotResponse(userInput) {
-        const input = userInput.toLowerCase().trim();
-        // Exact match 
-        if (responses[input]) { 
-          return randomChoice(responses[input]);
-        } 
-        // Keyword match
-        for (let key in responses) {
-          if (input.includes(key)) {
-            return randomChoice(responses[key]);
-          } 
-        }
-        // Fallback
-        return "Hmm, I don't understand that yet. Try asking about the website!";
-      }
-      // Send message function 
-      function sendMessage() {
-        const inputField = document.getElementById("chat-input");
-        const input = inputField.value;
-        const log = document.getElementById("chat-log"); 
-        if (input.trim() === "") return;
-        
-        log.innerHTML += "<p><b>You:</b> " + input + "</p>";
-        const reply = chatbotResponse(input); 
-        log.innerHTML += "<p><b>Bot:</b> " + reply + "</p>"; 
-        
-        inputField.value = ""; 
-         log.scrollTop = log.scrollHeight; // auto-scroll 
-      } 
-    </script>
-  
 </body>
 </html>
+
+
 
 
 
