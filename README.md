@@ -1193,6 +1193,72 @@
    Upload Your Video
 </a>
 
+
+  <!-- Hidden form (only shows after correct password) -->
+  <div id="saleForm" style="display:none;">
+    <h2>Record Cash Sale</h2>
+    <form id="cashSaleForm">
+      <label>
+        Transaction ID:
+        <input type="text" id="transactionId" value="CASH001" required>
+      </label><br><br>
+      <label>
+        Product Name:
+        <input type="text" id="productName" value="Cash Sale" required>
+      </label><br><br>
+      <label>
+        Item ID:
+        <input type="text" id="itemId" value="SKU001" required>
+      </label><br><br>
+      <label>
+        Quantity:
+        <input type="number" id="quantity" value="1" required>
+      </label><br><br>
+      <label>
+        Price (NGN):
+        <input type="number" id="price" value="10000" required>
+      </label><br><br>
+      <button type="submit">Record Sale</button>
+    </form>
+  </div>
+
+  <script>
+    // Prompt for admin password
+    const password = prompt("Enter admin password:");
+    if (password === "secret123") {
+      document.getElementById("saleForm").style.display = "block";
+    }
+
+    // Handle form submission
+    document.getElementById("cashSaleForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+
+      const transactionId = document.getElementById("transactionId").value;
+      const productName = document.getElementById("productName").value;
+      const itemId = document.getElementById("itemId").value;
+      const quantity = parseInt(document.getElementById("quantity").value);
+      const price = parseFloat(document.getElementById("price").value);
+
+      // Send purchase event to GA4
+      gtag("event", "purchase", {
+        transaction_id: transactionId,
+        value: price * quantity,
+        currency: "NGN",
+        items: [
+          {
+            item_id: itemId,
+            item_name: productName,
+            quantity: quantity,
+            price: price
+          }
+        ]
+      });
+
+      alert("Cash sale recorded in GA4!");
+      e.target.reset();
+    });
+  </script>
+
   
 <section id="update-votes">
   <h2>Vote for the Next Update</h2>
@@ -1220,6 +1286,7 @@
 
 </body>
 </html>
+
 
 
 
