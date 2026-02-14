@@ -93,7 +93,6 @@
       <p>.</p>
       <video controls>
         <source src="videos/1225.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
     </div>
   </div>
@@ -106,7 +105,6 @@
     <div class="card" data-id="video1">
       <video controls>
         <source src="videos/jedit3.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>Minecraft </p>
@@ -154,7 +152,6 @@
     <div class="card" data-id="video1">
       <video controls>
         <source src="videos/07.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>stephen curry</p>
@@ -202,7 +199,6 @@
     <div class="card" data-id="video1">
       <video controls>
         <source src="videos/05.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>BMW</p>
@@ -250,7 +246,6 @@
     <div class="card" data-id="video1">
       <video controls>
         <source src="videos/Snapchat-672489222.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>kungfu panda</p>
@@ -299,7 +294,6 @@
     <div class="card" data-id="video1">
       <video controls>
         <source src="videos/edit1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>houston rockets edit</p>
@@ -348,7 +342,6 @@
     <div class="card" data-id="basketball">
       <video controls>
         <source src="videos/tonyparkeredit.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>Tony parker Edit</p>
@@ -402,7 +395,6 @@
     <div class="card" data-id="basketball">
       <video controls>
         <source src="videos/edit2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>nba players</p>
@@ -456,7 +448,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/dunk1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>nba2k20 dunks</p>
@@ -510,7 +501,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/dunk2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>nba2k20 dunks</p>
@@ -564,7 +554,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/edit3.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>kuroku no basket</p>
@@ -618,8 +607,7 @@
     <!-- Another Video Card -->
     <div class="card" data-id="video2">
       <video controls>
-        <source src="videos/1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+        <source src="videos/1.mp4" type="video/mp4"
       </video>
       <div class="card-body">
         <p>Minecraft</p>
@@ -674,7 +662,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/edit4.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>stephen curry</p>
@@ -729,7 +716,6 @@
     <div class="card" data-id="video1">
       <video controls>
         <source src="videos/2.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>Minecraft</p>
@@ -782,7 +768,6 @@
     <div class="card" data-id="video1">
       <video controls>
         <source src="videos/3.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>LeBron James</p>
@@ -836,7 +821,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/5.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>facts</p>
@@ -890,7 +874,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/6.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>Facts</p>
@@ -937,7 +920,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/7.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>Mythicaljay</p>
@@ -985,7 +967,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/Snapchat-755988318.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>BMW</p>
@@ -1034,7 +1015,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/1225.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>Mythicaljay</p>
@@ -1082,7 +1062,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/03.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>Ronaldo?</p>
@@ -1131,7 +1110,6 @@
     <div class="card" data-id="video2">
       <video controls>
         <source src="videos/02.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
       <div class="card-body">
         <p>BMW</p>
@@ -1178,7 +1156,7 @@
 
   
 <!-- Cusdis Comment Section -->   
-<h3>COMMENTS</h3>
+<h3>COMMENT</h3>
 <div id="cusdis_thread"
      data-host="https://cusdis.com"
      data-app-id="ce751a3d-6523-48f3-b05d-5d13a60c9f21"
@@ -1225,7 +1203,7 @@
   <script>
     // Prompt for admin password
     const password = prompt("Enter admin password:");
-    if (password === "secret123") {
+    if (password === "xboxjoel2013") {
       document.getElementById("saleForm").style.display = "block";
     }
 
@@ -1280,12 +1258,14 @@
         <ol>
    <li>  <A href="https://mythicaljay1229.github.io/Jstore.github.io/">Jstore</A></li>
     <li>   <A href="https://mythicaljay1229.github.io/triplehands-website/">Triple Hands Agro Food Enterprises</A></li>
+   <li>   <A href="https://mythicaljay1229.github.io/jvids/">Jason videoz</A></li>
         </ol>
 
 
 
 </body>
 </html>
+
 
 
 
