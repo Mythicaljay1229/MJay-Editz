@@ -489,10 +489,7 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
+        
     </div>
   </section>
 
@@ -543,10 +540,6 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
     </div>
   </section>
 
@@ -596,10 +589,6 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
     </div>
   </section>
 
@@ -650,10 +639,6 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
     </div>
   </section>
 
@@ -704,10 +689,7 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
+      
         </form>
     </div>
   </section>
@@ -758,10 +740,7 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
+      
     </div>
 
    <!-- Video Card -->
@@ -810,10 +789,6 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
     </div>
 
   
@@ -862,10 +837,6 @@
 .share-btn.facebook { background: #4267B2; }
 .share-btn.whatsapp { background: #25D366; }
 </style>
-        <div class="stats">
-          <span class="likes">0 Likes</span> • 
-          <span class="views">0 Views</span>
-        </div>
     </div>
   </section>
 
@@ -1265,6 +1236,7 @@
 
 </body>
 </html>
+
 
 
 
