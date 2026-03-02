@@ -82,8 +82,15 @@
     document.body.classList.toggle("light");
   }
   // Default theme
-  document.body.classList.add("light");
+  document.body.classList.add("dark");
 </script>
+
+<!-- Link directly to your channel -->
+<a href="https://www.youtube.com/@JayDeGreat1" 
+   target="_blank" 
+   style="display:inline-block; padding:10px 20px; background:#FF0000; color:#fff; font-weight:bold; text-decoration:none; border-radius:5px;">
+   🎥 Subscribe to our Youtube Channel @JayDeGreat1
+</a>
 
 <section id="editor-of-week" class="highlight">
   <h2>✨ Editor of the Week ✨</h2>
@@ -1251,6 +1258,7 @@
 
 </body>
 </html>
+
 
 
 
