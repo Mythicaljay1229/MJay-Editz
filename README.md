@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -86,7 +87,7 @@
 </script>
 
 <!-- Link directly to your channel -->
-<a href="https://www.youtube.com/@JayDeGreat1" 
+<a href="https://www.youtube.com/channel/UCZLMyaJqwgv3OAX-srTQmaw?sub_confirmation=1" 
    target="_blank" 
    style="display:inline-block; padding:10px 20px; background:#FF0000; color:#fff; font-weight:bold; text-decoration:none; border-radius:5px;">
    🎥 Subscribe to our Youtube Channel @JayDeGreat1
@@ -1304,6 +1305,7 @@
 
 </body>
 </html>
+
 
 
 
